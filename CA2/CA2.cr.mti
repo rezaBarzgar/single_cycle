@@ -1,0 +1,18 @@
+C:/Users/REZA/Desktop/??????/project/CA1/EX2/tb4bMult2.v {2 {vlog -work CA2 C:/Users/REZA/Desktop/??????/project/CA1/EX2/tb4bMult2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tbmult
+** Warning: C:/Users/REZA/Desktop/معماری/project/CA1/EX2/tb4bMult2.v(38): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	tbmult
+
+} {} {}} {C:/Users/REZA/Desktop/??????/project/CA1/EX2/4-bit array mult2.v} {1 {vlog -work CA2 {C:/Users/REZA/Desktop/??????/project/CA1/EX2/4-bit array mult2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+-- Compiling module multiply4bits
+
+Top level modules:
+	multiply4bits
+
+} {} {}}

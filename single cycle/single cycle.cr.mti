@@ -1,0 +1,158 @@
+{C:/Users/REZA/Desktop/??????/single cycle/Modules/alu.v} {2 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/alu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+-- Compiling module testbench
+** Warning: C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v(55): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/REZA/Desktop/mamad/branchControl.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/branchControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module branchControl
+
+Top level modules:
+	branchControl
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/Inst-Memory.v} {2 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/Inst-Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IMemBank
+-- Compiling module testbench
+** Warning: C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v(59): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	IMemBank
+	testbench
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/Inst-Memory.v} {2 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/Inst-Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IMemBank
+-- Compiling module testbench
+** Warning: C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v(59): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	IMemBank
+	testbench
+
+} {} {}} C:/Users/REZA/Desktop/mamad/control.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/regfile.v} {2 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/regfile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+** Warning: C:/Users/REZA/Desktop/معماری/single cycle/Modules/regfile.v(26): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/REZA/Desktop/mamad/PC_adder.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/PC_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_adder
+
+Top level modules:
+	PC_adder
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/regfile.v} {2 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/regfile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+** Warning: C:/Users/REZA/Desktop/معماری/single cycle/Modules/regfile.v(26): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/REZA/Desktop/mamad/PC.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/REZA/Desktop/mamad/aluControl.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/aluControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aluControl
+
+Top level modules:
+	aluControl
+
+} {} {}} C:/Users/REZA/Desktop/mamad/test.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tester
+
+Top level modules:
+	tester
+
+} {} {}} C:/Users/REZA/Desktop/logic/clk.v {1 {vlog -work work C:/Users/REZA/Desktop/logic/clk.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Clk
+
+Top level modules:
+	Clk
+
+} {} {}} C:/Users/REZA/Desktop/mamad/single_cycle.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/single_cycle.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module single_cycle
+
+Top level modules:
+	single_cycle
+
+} {} {}} C:/Users/REZA/Desktop/mamad/signExt.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad/signExt.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module signExt
+** Warning: C:/Users/REZA/Desktop/mamad/signExt.v(3): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	signExt
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/Data-Memory.v} {1 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/Data-Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DMemBank
+
+Top level modules:
+	DMemBank
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/Data-Memory.v} {1 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/Data-Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DMemBank
+
+Top level modules:
+	DMemBank
+
+} {} {}} C:/Users/REZA/Desktop/mamad/mux2X1.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/mux2X1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2X1
+-- Compiling module mux2
+
+Top level modules:
+	mux2X1
+	mux2
+
+} {} {}} C:/Users/REZA/Desktop/mamad/shifter.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad/shifter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shifter
+-- Compiling module jumpShifter
+
+Top level modules:
+	shifter
+	jumpShifter
+
+} {} {}} {C:/Users/REZA/Desktop/??????/single cycle/Modules/alu.v} {2 {vlog -work work {C:/Users/REZA/Desktop/??????/single cycle/Modules/alu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+-- Compiling module testbench
+** Warning: C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v(55): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	testbench
+
+} {} {}}

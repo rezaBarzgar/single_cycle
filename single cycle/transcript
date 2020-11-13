@@ -1,0 +1,217 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {C:/Users/REZA/Desktop/mamad/single cycle.mpf} 
+# Loading project single cycle
+# Compile of alu.v was successful with warnings.
+# Compile of Data-Memory.v was successful.
+# Compile of Inst-Memory.v was successful with warnings.
+# Compile of regfile.v was successful with warnings.
+# Compile of single_cycle.v was successful.
+# Compile of PC_adder.v was successful.
+# Compile of signExt.v was successful with warnings.
+# Compile of shifter.v was successful.
+# Compile of mux2X1.v was successful.
+# Compile of control.v was successful.
+# Compile of aluControl.v was successful.
+# Compile of branchControl.v was successful.
+# Compile of PC.v was successful.
+# Compile of clk.v was successful.
+# Compile of test.v was successful.
+# 15 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.single_cycle
+# vsim -voptargs=+acc work.single_cycle 
+# Loading work.single_cycle
+# Loading work.PC
+# Loading work.PC_adder
+# Loading work.jumpShifter
+# Loading work.mux2X1
+# Loading work.ALU
+# Loading work.shifter
+# Loading work.IMemBank
+# Loading work.mux2
+# Loading work.Control
+# Loading work.RegFile
+# Loading work.signExt
+# Loading work.aluControl
+# Loading work.branchControl
+# Loading work.DMemBank
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(22): [PCDPC] - Port size (32 or 32) does not match connection size (16) for port 'readdata'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v(2).
+# 
+#         Region: /single_cycle/inst_mem
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(34): [PCDPC] - Port size (4 or 4) does not match connection size (3) for port 'aluoperation'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v(1).
+# 
+#         Region: /single_cycle/alu
+add wave -position insertpoint sim:/single_cycle/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: REZA  Hostname: DESKTOP-SM468KQ  ProcessID: 9636
+# 
+#           Attempting to use alternate WLF file "./wlftqwb40k".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlftqwb40k
+# 
+noforce sim:/single_cycle/clk
+force -freeze sim:/single_cycle/clk 0 0, 1 {50 ps} -r 100
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+vsim -voptargs=+acc work.single_cycle
+# vsim -voptargs=+acc work.single_cycle 
+# Loading work.single_cycle
+# Loading work.PC
+# Loading work.PC_adder
+# Loading work.jumpShifter
+# Loading work.mux2X1
+# Loading work.ALU
+# Loading work.shifter
+# Loading work.IMemBank
+# Loading work.mux2
+# Loading work.Control
+# Loading work.RegFile
+# Loading work.signExt
+# Loading work.aluControl
+# Loading work.branchControl
+# Loading work.DMemBank
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(22): [PCDPC] - Port size (32 or 32) does not match connection size (16) for port 'readdata'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v(2).
+# 
+#         Region: /single_cycle/inst_mem
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(34): [PCDPC] - Port size (4 or 4) does not match connection size (3) for port 'aluoperation'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v(1).
+# 
+#         Region: /single_cycle/alu
+add wave -position insertpoint sim:/single_cycle/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: REZA  Hostname: DESKTOP-SM468KQ  ProcessID: 9636
+# 
+#           Attempting to use alternate WLF file "./wlfts17yeq".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlfts17yeq
+# 
+force -freeze sim:/single_cycle/clk 0 0, 1 {50 ps} -r 100
+run
+run
+run
+add wave -position end  /single_cycle/registers/regfile
+run
+run
+run
+restart
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(22): [PCDPC] - Port size (32 or 32) does not match connection size (16) for port 'readdata'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v(2).
+# 
+#         Region: /single_cycle/inst_mem
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(34): [PCDPC] - Port size (4 or 4) does not match connection size (3) for port 'aluoperation'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v(1).
+# 
+#         Region: /single_cycle/alu
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+vsim -voptargs=+acc work.single_cycle
+# vsim -voptargs=+acc work.single_cycle 
+# Loading work.single_cycle
+# Loading work.PC
+# Loading work.PC_adder
+# Loading work.jumpShifter
+# Loading work.mux2X1
+# Loading work.ALU
+# Loading work.shifter
+# Loading work.IMemBank
+# Loading work.mux2
+# Loading work.Control
+# Loading work.RegFile
+# Loading work.signExt
+# Loading work.aluControl
+# Loading work.branchControl
+# Loading work.DMemBank
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(22): [PCDPC] - Port size (32 or 32) does not match connection size (16) for port 'readdata'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v(2).
+# 
+#         Region: /single_cycle/inst_mem
+# ** Warning: (vsim-3015) C:/Users/REZA/Desktop/mamad/single_cycle.v(34): [PCDPC] - Port size (4 or 4) does not match connection size (3) for port 'aluoperation'. The port definition is at: C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v(1).
+# 
+#         Region: /single_cycle/alu
+add wave -position insertpoint sim:/single_cycle/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: REZA  Hostname: DESKTOP-SM468KQ  ProcessID: 9636
+# 
+#           Attempting to use alternate WLF file "./wlftqfg8h7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlftqfg8h7
+# 
+add wave -position end  /single_cycle/registers/regfile
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/single_cycle/clk 1 0 -cancel 10
+run
+run
+run
+run
+run
+force -freeze sim:/single_cycle/clk 0 0, 1 {50 ps} -r 100
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

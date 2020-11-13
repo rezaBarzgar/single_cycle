@@ -1,0 +1,45 @@
+//memory unit
+module IMemBank(input memread, input [7:0] address, output [31:0] readdata);
+ 
+  reg [15:0] mem_array [255:0];
+  reg [31:0] readd;
+  
+
+  initial begin
+    mem_array[0] = 16'b0000000000001000;
+  end
+ 
+  always@(memread, address, mem_array[address])
+  begin
+    
+      readd=mem_array[address];
+    
+  end
+
+assign readdata = readd;
+
+endmodule
+
+
+module testbench;
+  reg memread;              /* rw=RegWrite */
+  reg [7:0] adr;  /* adr=address */
+  wire [31:0] rd; /* rd=readdata */
+  
+  memBank u0(memread, adr, rd);
+  
+  initial begin
+    memread=1'b0;
+    adr=16'd0;
+    
+    #5
+    memread=1'b1;
+    adr=16'd0;
+  end
+  
+  initial repeat(127)#4 adr=adr+1;
+  
+  
+endmodule;
+
+

@@ -1,0 +1,145 @@
+C:/Users/REZA/Desktop/mamad_pipeline/control.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/alu.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+-- Compiling module testbench
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/alu.v(55): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IMemBank
+-- Compiling module testbench
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v(61): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	IMemBank
+	testbench
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerIFID
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v(11): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	registerIFID
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/mux2X1.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/mux2X1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2X1
+-- Compiling module mux2
+
+Top level modules:
+	mux2X1
+	mux2
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/regfile.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/regfile.v(26): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerEXMEM
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v(30): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	registerEXMEM
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/PC_adder.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/PC_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_adder
+-- Compiling module adder
+
+Top level modules:
+	PC_adder
+	adder
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/signExt.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/signExt.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module signExt
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/signExt.v(3): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	signExt
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/aluControl.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/aluControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aluControl
+
+Top level modules:
+	aluControl
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/PC.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerMEMWB
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v(16): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	registerMEMWB
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/shifter.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/shifter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shifter
+-- Compiling module jumpShifter
+
+Top level modules:
+	shifter
+	jumpShifter
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/pipeline.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/pipeline.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Pipeline
+
+Top level modules:
+	Pipeline
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v {2 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerIDEX
+** Warning: C:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v(54): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	registerIDEX
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/branchControl.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/branchControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module branchControl
+
+Top level modules:
+	branchControl
+
+} {} {}} C:/Users/REZA/Desktop/mamad_pipeline/Data-Memory.v {1 {vlog -work work C:/Users/REZA/Desktop/mamad_pipeline/Data-Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DMemBank
+
+Top level modules:
+	DMemBank
+
+} {} {}}

@@ -1,0 +1,12 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Users/REZA/Desktop/CA1/CA1.mpf 
+# Loading project CA1
+vsim -voptargs=+acc work.tb
+# vsim -voptargs=+acc work.tb 
+# Loading work.tb
+# Loading work.carrySellect8
+# Loading work.adder4
+# Loading work.FullAdder2
+# Loading work.mux2x1
+add wave -position insertpoint sim:/tb/*
+run

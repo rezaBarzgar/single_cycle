@@ -1,0 +1,102 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\REZA\Desktop\ÙØ¹ÙØ§Ø±Û
+vadder4
+I8iaP_aCQzLOT>KA^^7dh`1
+VMW^Gh@YRVZWZPz`VoC1Ie0
+Z0 dC:\Users\REZA\Desktop\CA1
+w1552425271
+8C:/Users/REZA/Desktop/معماری/project/CA1/EX1/4bAdder.v
+FC:/Users/REZA/Desktop/معماری/project/CA1/EX1/4bAdder.v
+L0 1
+Z1 OV;L;10.1d;51
+r1
+31
+Z2 o-work CA1 -O0
+!s100 iL7N;jK[6RWO=2?=79SW^1
+!s108 1553327296.095000
+!s107 C:/Users/REZA/Desktop/معماری/project/CA1/EX1/4bAdder.v|
+!s90 -reportprogress|300|-work|CA1|C:/Users/REZA/Desktop/معماری/project/CA1/EX1/4bAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcarrySellect8
+I9e6XOHg>dQ26N=Z5`6>?X2
+V0_TD6nUEo=47j<S4^nhhe1
+Z3 dC:\Users\REZA\Desktop\CA1
+Z4 w1553327256
+Z5 8C:/Users/REZA/Desktop/CA1/8bCarrySellect.v
+Z6 FC:/Users/REZA/Desktop/CA1/8bCarrySellect.v
+L0 2
+R1
+r1
+31
+Z7 !s108 1553327263.173000
+Z8 !s107 C:/Users/REZA/Desktop/CA1/8bCarrySellect.v|
+Z9 !s90 -reportprogress|300|-work|CA1|C:/Users/REZA/Desktop/CA1/8bCarrySellect.v|
+R2
+ncarry@sellect8
+!s100 AY>9IOKSNnZj[ge7^R<l`2
+!i10b 1
+!s85 0
+!s101 -O0
+vFullAdder2
+I30dl@73[G0GeD>DeN]E891
+VZMngKTlm9MIfkP2jS_C1R2
+R3
+w1552425273
+8C:/Users/REZA/Desktop/معماری/project/CA1/EX1/One-bit-FA.v
+FC:/Users/REZA/Desktop/معماری/project/CA1/EX1/One-bit-FA.v
+L0 1
+R1
+r1
+31
+R2
+n@full@adder2
+!i10b 1
+!s100 OBE=Q3Hme4U6FFzWIPdZh3
+!s85 0
+!s108 1553327298.521000
+!s107 C:/Users/REZA/Desktop/معماری/project/CA1/EX1/One-bit-FA.v|
+!s90 -reportprogress|300|-work|CA1|C:/Users/REZA/Desktop/معماری/project/CA1/EX1/One-bit-FA.v|
+!s101 -O0
+vmux2x1
+IUd=5Bo2H]cH2lRjOS3DFh0
+VCJ9ldgYIh_DMn@?9jIn[e1
+R3
+R4
+R5
+R6
+L0 28
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 kjYc7Y15f:S=@WD0RA@a30
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+!i10b 1
+!s100 FcdB@PM5CB_@]T=d0f46I3
+In1?eUZzYg]?3fU;UD04>X3
+VV@Xn<HnSRM[I5c1?BH]3a3
+R3
+w1553328455
+8C:/Users/REZA/Desktop/CA1/tb8bCarrySellect.v
+FC:/Users/REZA/Desktop/CA1/tb8bCarrySellect.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s108 1553328461.329000
+!s107 C:/Users/REZA/Desktop/CA1/tb8bCarrySellect.v|
+!s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/CA1/tb8bCarrySellect.v|
+!s101 -O0
+o-work work -O0

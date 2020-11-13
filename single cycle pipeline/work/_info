@@ -1,0 +1,421 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\REZA\Desktop\mamad
+vadder
+Z1 !s100 P6i?GTz7f=UjLZ17IPc8m1
+Z2 IlY>ZQML0b5nl?;bLPN6Me2
+Z3 Vom4<gOXGX<9ohRmWc8HSm3
+Z4 dC:\Users\REZA\Desktop\mamad_pipeline
+Z5 w1562053835
+Z6 8C:/Users/REZA/Desktop/mamad_pipeline/PC_adder.v
+Z7 FC:/Users/REZA/Desktop/mamad_pipeline/PC_adder.v
+L0 11
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1562124772.564000
+Z10 !s107 C:/Users/REZA/Desktop/mamad_pipeline/PC_adder.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/PC_adder.v|
+Z12 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 !s100 bSgRn]O?Cc0ha5VRk8l4i2
+Z14 IgS[MKI5m=@na[kE6f42?A2
+Z15 VK5lf2]4o^8?e5MhR]1RSQ1
+R4
+Z16 w1544975338
+Z17 8C:/Users/REZA/Desktop/mamad_pipeline/alu.v
+Z18 FC:/Users/REZA/Desktop/mamad_pipeline/alu.v
+L0 1
+R8
+r1
+31
+Z19 !s108 1562124776.157000
+Z20 !s107 C:/Users/REZA/Desktop/mamad_pipeline/alu.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/alu.v|
+R12
+Z22 n@a@l@u
+!i10b 1
+!s85 0
+!s101 -O0
+valuControl
+Z23 !s100 d;BP?]FzI5FTKBZmIYZe43
+Z24 IHLcb5EGGa5khU>mkYALMi1
+Z25 VDS]in]@aZARYUHQiZni;42
+R4
+Z26 w1562055533
+Z27 8C:/Users/REZA/Desktop/mamad_pipeline/aluControl.v
+Z28 FC:/Users/REZA/Desktop/mamad_pipeline/aluControl.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/aluControl.v|
+R12
+Z30 nalu@control
+Z31 !s108 1562124771.236000
+Z32 !s107 C:/Users/REZA/Desktop/mamad_pipeline/aluControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbranchControl
+Z33 !s100 77JL900Jg9=E2;OZE:?5Z2
+Z34 IVnVm[h^Ke]C^@C6Tzh^i^1
+Z35 VD20SO]8X2a`khTA4ST1[k2
+R4
+Z36 w1562054604
+Z37 8C:/Users/REZA/Desktop/mamad_pipeline/branchControl.v
+Z38 FC:/Users/REZA/Desktop/mamad_pipeline/branchControl.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/branchControl.v|
+R12
+Z40 nbranch@control
+Z41 !s108 1562124771.470000
+Z42 !s107 C:/Users/REZA/Desktop/mamad_pipeline/branchControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z43 !s100 XH]oe:PJab8cU8UJ`9^RR0
+Z44 IUR0R9K24IaRjKb:gOSJaK0
+Z45 V`Sg1VgX8IRGB^iUd1cnU:2
+R4
+Z46 w1562052484
+Z47 8C:/Users/REZA/Desktop/mamad_pipeline/control.v
+Z48 FC:/Users/REZA/Desktop/mamad_pipeline/control.v
+L0 1
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/control.v|
+R12
+Z50 n@control
+Z51 !s108 1562124771.689000
+Z52 !s107 C:/Users/REZA/Desktop/mamad_pipeline/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDMemBank
+Z53 !s100 >@_1EPi[e_MfbcGCje42d1
+Z54 I0^9^QHMcncQFL5;j6Ean70
+Z55 VD2VT`?Wk8@TZUWH6T0CS[3
+R4
+Z56 w1562047002
+Z57 8C:/Users/REZA/Desktop/mamad_pipeline/Data-Memory.v
+Z58 FC:/Users/REZA/Desktop/mamad_pipeline/Data-Memory.v
+L0 2
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/Data-Memory.v|
+R12
+Z60 n@d@mem@bank
+Z61 !s108 1562124776.579000
+Z62 !s107 C:/Users/REZA/Desktop/mamad_pipeline/Data-Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIMemBank
+Z63 !s100 0[>58hZ=iHoP[ci2n4n=;2
+Z64 IS7_hB4KSRNh0di^U2zIJ42
+Z65 V?FBX`XYCCALHJJ=<Ef_zc3
+R4
+Z66 w1562124640
+Z67 8C:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v
+Z68 FC:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v
+L0 2
+R8
+r1
+31
+Z69 !s108 1562124778.734000
+Z70 !s107 C:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v|
+Z71 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/Inst-Memory.v|
+R12
+Z72 n@i@mem@bank
+!i10b 1
+!s85 0
+!s101 -O0
+vjumpShifter
+Z73 !s100 3a`XYdDLZMJl;J2K^no6L2
+Z74 I=1aVI<KdIjoSW>2ENGb7m3
+Z75 Vn:=I^ZaiBP`2FZ2m]0X7i0
+R4
+Z76 w1561542794
+Z77 8C:/Users/REZA/Desktop/mamad_pipeline/shifter.v
+Z78 FC:/Users/REZA/Desktop/mamad_pipeline/shifter.v
+L0 6
+R8
+r1
+31
+Z79 !s108 1562124775.266000
+Z80 !s107 C:/Users/REZA/Desktop/mamad_pipeline/shifter.v|
+Z81 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/shifter.v|
+R12
+Z82 njump@shifter
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+Z83 !s100 9hURT9jPI1NEhhI0]>0dJ3
+Z84 IVzEJ]?5PM_QU@0::[3;1e1
+Z85 V]Q0QhAB0P@c?K8zn_VCFe3
+R4
+Z86 w1561545039
+Z87 8C:/Users/REZA/Desktop/mamad_pipeline/mux2X1.v
+Z88 FC:/Users/REZA/Desktop/mamad_pipeline/mux2X1.v
+L0 5
+R8
+r1
+31
+Z89 !s108 1562124771.845000
+Z90 !s107 C:/Users/REZA/Desktop/mamad_pipeline/mux2X1.v|
+Z91 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/mux2X1.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2X1
+Z92 !s100 6QK::L6:Q03H[]L]aV5o;3
+Z93 Ie=knK[57nJ>hQ]W;e`a5A3
+Z94 VnOmailaeGk=7RWkVcFKMF0
+R4
+R86
+R87
+R88
+L0 1
+R8
+r1
+31
+R89
+R90
+R91
+R12
+Z95 nmux2@x1
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z96 !s100 2>>zISRcb0Z3:FR^YC;Gh0
+Z97 Id?z2B4m_b^[IfX:H1F?XS2
+Z98 VDUnGf2E]:1W]90:BGIoYN3
+R4
+Z99 w1562042624
+Z100 8C:/Users/REZA/Desktop/mamad_pipeline/PC.v
+Z101 FC:/Users/REZA/Desktop/mamad_pipeline/PC.v
+L0 1
+R8
+r1
+31
+Z102 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/PC.v|
+R12
+n@p@c
+Z103 !s108 1562124772.345000
+Z104 !s107 C:/Users/REZA/Desktop/mamad_pipeline/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_adder
+Z105 !s100 g5d7GOizlE`?B?05;j?GX3
+Z106 I:^JSIocLZ7]^>z7O3iK3_2
+Z107 VETQ>_[S7_ZRMM:1<<c=4f1
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z108 n@p@c_adder
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeline
+Z109 !s100 C3HRQcD5OM:?J0C4GL2a41
+Z110 IGz1lG2`RlNZSPX^]cN=F_2
+Z111 Vab6Nl>m:CGb2R`1f[fJBS0
+R4
+Z112 w1562055689
+Z113 8C:/Users/REZA/Desktop/mamad_pipeline/pipeline.v
+Z114 FC:/Users/REZA/Desktop/mamad_pipeline/pipeline.v
+L0 1
+R8
+r1
+31
+Z115 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/pipeline.v|
+R12
+Z116 n@pipeline
+Z117 !s108 1562124775.922000
+Z118 !s107 C:/Users/REZA/Desktop/mamad_pipeline/pipeline.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+!i10b 1
+Z119 !s100 j>beIYgfeAPYGaB4MUW^h2
+Z120 I_z7RO@N3U8R_T_88ALY:f2
+Z121 V=>;WXc3]LimWBk1HGVG0]2
+R4
+Z122 w1561874715
+Z123 8C:/Users/REZA/Desktop/mamad_pipeline/regfile.v
+Z124 FC:/Users/REZA/Desktop/mamad_pipeline/regfile.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1562124783.343000
+!s107 C:/Users/REZA/Desktop/mamad_pipeline/regfile.v|
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/regfile.v|
+!s101 -O0
+R12
+Z126 n@reg@file
+vregisterEXMEM
+Z127 !s100 1E8W^LJc<[LBLa[Ak7Uf41
+Z128 I]XnL6kzZTZjL@]K;@bo_Z3
+Z129 Vz]1_?[Dce<DhAm_iC8F3]0
+R4
+Z130 w1562055246
+Z131 8C:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v
+Z132 FC:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v
+L0 1
+R8
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v|
+R12
+Z134 nregister@e@x@m@e@m
+Z135 !s108 1562124773.032000
+Z136 !s107 C:/Users/REZA/Desktop/mamad_pipeline/registerEXMEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregisterIDEX
+Z137 I8AC<fN3mf1lkboiN5l3PE2
+Z138 VL020YI4IWJ0O=kkUAB7^D1
+R4
+Z139 w1562124774
+Z140 8C:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v
+Z141 FC:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v
+L0 1
+R8
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v|
+R12
+Z143 nregister@i@d@e@x
+Z144 !s100 ^CBI=gAgCNi?41DojiAn_1
+Z145 !s108 1562124774.782000
+Z146 !s107 C:/Users/REZA/Desktop/mamad_pipeline/registerIDEX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregisterIFID
+Z147 !s100 FNM[a0Y=hg9BKej3`d<=63
+Z148 IdNST?3VfBJgEAUHDWX9d02
+Z149 VF]bPaOTFX35aP4^]?I>TE1
+R4
+Z150 w1562053852
+Z151 8C:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v
+Z152 FC:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v
+L0 1
+R8
+r1
+31
+Z153 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v|
+R12
+Z154 nregister@i@f@i@d
+Z155 !s108 1562124775.079000
+Z156 !s107 C:/Users/REZA/Desktop/mamad_pipeline/registersIFID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregisterMEMWB
+Z157 !s100 hf=am682HFMO]LIFQ__i>3
+Z158 I1[5Dfz]8eZeF0az6TF5AF0
+Z159 V;LKGV>R339c^gA<b:G;db3
+R4
+Z160 w1562055248
+Z161 8C:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v
+Z162 FC:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v
+L0 1
+R8
+r1
+31
+Z163 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v|
+R12
+Z164 nregister@m@e@m@w@b
+Z165 !s108 1562124774.907000
+Z166 !s107 C:/Users/REZA/Desktop/mamad_pipeline/registerMEMWB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshifter
+Z167 !s100 Xmn4n25Y4f@7`8J;3M8Rh1
+Z168 IIJm`a>JZ^HkGj;80hiE[e3
+Z169 VgoS77[g[zhPRo2J>:_ZGj2
+R4
+R76
+R77
+R78
+L0 1
+R8
+r1
+31
+R79
+R80
+R81
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsignExt
+Z170 !s100 36]4a67>VUCVl5^6e8UOF2
+Z171 In1W`XR1eFc>CPSjQaJkg80
+Z172 VJZhj8b93BKE?O`j28aHkh0
+R4
+Z173 w1561530362
+Z174 8C:/Users/REZA/Desktop/mamad_pipeline/signExt.v
+Z175 FC:/Users/REZA/Desktop/mamad_pipeline/signExt.v
+L0 1
+R8
+r1
+31
+Z176 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad_pipeline/signExt.v|
+R12
+Z177 nsign@ext
+Z178 !s108 1562124775.657000
+Z179 !s107 C:/Users/REZA/Desktop/mamad_pipeline/signExt.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z180 Iz@bY[MJRFnjAnAK06Slmg3
+Z181 VhGfW:390DM[oDMzegDH9`2
+R4
+R66
+R67
+R68
+L0 42
+R8
+r1
+31
+R69
+R70
+R71
+R12
+!i10b 1
+Z182 !s100 >3^V8CK:;]N@a9PHPb?832
+!s85 0
+!s101 -O0

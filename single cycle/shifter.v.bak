@@ -1,0 +1,3 @@
+module shifter(input[15:0]immediate,output[15:0] shifted);
+  assign shifted = immediate << 1;
+endmodule

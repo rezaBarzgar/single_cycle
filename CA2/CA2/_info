@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\REZA\Desktop\CA1
+vFA
+Z1 ILCjQZAVk557O9zK?;M46f2
+Z2 V8l=adiL;VifN:VT@cj_Mz0
+Z3 dC:\Users\REZA\Desktop\CA2
+Z4 w1553497603
+Z5 8C:/Users/REZA/Desktop/معماری/project/CA1/EX2/4-bit array mult2.v
+Z6 FC:/Users/REZA/Desktop/معماری/project/CA1/EX2/4-bit array mult2.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1553497603.648000
+Z9 !s107 C:/Users/REZA/Desktop/معماری/project/CA1/EX2/4-bit array mult2.v|
+Z10 !s90 -reportprogress|300|-work|CA2|C:/Users/REZA/Desktop/معماری/project/CA1/EX2/4-bit array mult2.v|
+Z11 o-work CA2 -O0
+n@f@a
+!i10b 1
+Z12 !s100 Xe0Q<`5o?EoE5aTUNmgT;3
+!s85 0
+!s101 -O0
+vmultiply4bits
+Z13 !s100 gHo0akfFIjZ47e>ImI05D2
+Z14 IoP3D1TgUmeDfHlDf8=oSZ1
+Z15 V]L`=LUcRjmPRL9mBLoboV1
+R3
+R4
+R5
+R6
+L0 8
+R7
+r1
+31
+R8
+R9
+R10
+R11
+!i10b 1
+!s85 0
+!s101 -O0
+vtbmult
+!i10b 1
+!s100 fgc_Y07i7LT9T;N<M:0zE0
+Il8hoKO`Admg;L_angj=go2
+Vm3C6`M5>T8E@WdEhG]Q9l3
+R3
+w1553498075
+8C:/Users/REZA/Desktop/معماری/project/CA1/EX2/tb4bMult2.v
+FC:/Users/REZA/Desktop/معماری/project/CA1/EX2/tb4bMult2.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1553498079.262000
+!s107 C:/Users/REZA/Desktop/معماری/project/CA1/EX2/tb4bMult2.v|
+!s90 -reportprogress|300|-work|CA2|C:/Users/REZA/Desktop/معماری/project/CA1/EX2/tb4bMult2.v|
+!s101 -O0
+R11

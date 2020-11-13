@@ -1,0 +1,39 @@
+C:/Users/REZA/Desktop/CA1/tb8bCarrySellect.v {1 {vlog -work work C:/Users/REZA/Desktop/CA1/tb8bCarrySellect.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/REZA/Desktop/??????/project/CA1/EX1/One-bit-FA.v {1 {vlog -work CA1 C:/Users/REZA/Desktop/??????/project/CA1/EX1/One-bit-FA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FullAdder2
+
+Top level modules:
+	FullAdder2
+
+} {} {}} C:/Users/REZA/Desktop/??????/project/CA1/EX1/4bAdder.v {1 {vlog -work CA1 C:/Users/REZA/Desktop/??????/project/CA1/EX1/4bAdder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder4
+
+Top level modules:
+	adder4
+
+} {} {}} C:/Users/REZA/Desktop/CA1/8bCarrySellect.v {1 {vlog -work CA1 C:/Users/REZA/Desktop/CA1/8bCarrySellect.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module carrySellect8
+-- Compiling module mux2x1
+
+Top level modules:
+	carrySellect8
+
+} {} {}} C:/Users/REZA/Desktop/??????/project/CA1/EX1/tb4bAdder.v {2 {vlog -work CA1 C:/Users/REZA/Desktop/??????/project/CA1/EX1/tb4bAdder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+** Warning: C:/Users/REZA/Desktop/معماری/project/CA1/EX1/tb4bAdder.v(25): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	tb
+
+} {} {}}

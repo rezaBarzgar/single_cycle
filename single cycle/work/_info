@@ -1,0 +1,379 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\doc\LC_97_98_02
+vALU
+Z1 !s100 Qf>PKa]iTNl_O;=PC4EfZ3
+Z2 I0fWOl3G`b@n]FUEd:IW<f2
+Z3 VK5lf2]4o^8?e5MhR]1RSQ1
+Z4 dC:\Users\REZA\Desktop\mamad
+Z5 w1544975338
+Z6 8C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v
+Z7 FC:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1562123143.789000
+Z10 !s107 C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/معماری/single cycle/Modules/alu.v|
+Z12 o-work work -O0
+Z13 n@a@l@u
+!i10b 1
+!s85 0
+!s101 -O0
+valuControl
+Z14 !s100 ;V76VXG==kaL^lN>T8]EP0
+Z15 I2P=C0bSMDf>21QP;Gi>Q@3
+Z16 VDS]in]@aZARYUHQiZni;42
+R4
+Z17 w1561541343
+Z18 8C:/Users/REZA/Desktop/mamad/aluControl.v
+Z19 FC:/Users/REZA/Desktop/mamad/aluControl.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/aluControl.v|
+R12
+Z21 nalu@control
+Z22 !s108 1562123147.819000
+Z23 !s107 C:/Users/REZA/Desktop/mamad/aluControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbranchControl
+Z24 !s100 o@LMKhT8FYaASPfJ:IoTT1
+Z25 I[fNcjNBT<i>]RoXQ9HJmO2
+Z26 VZNdWEDhS2TTfbf<kiAZG80
+R4
+Z27 w1561874861
+Z28 8C:/Users/REZA/Desktop/mamad/branchControl.v
+Z29 FC:/Users/REZA/Desktop/mamad/branchControl.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/branchControl.v|
+R12
+Z31 nbranch@control
+Z32 !s108 1562123148.069000
+Z33 !s107 C:/Users/REZA/Desktop/mamad/branchControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vClk
+Z34 !s100 LHedCJAEGHVX[INNDa9UY1
+Z35 Ig89J4Ud=FQ^5lDHKWcZm01
+Z36 V>>IbC2jNKZ5KAOOgO;a8i1
+R4
+Z37 w1561869756
+Z38 8C:/Users/REZA/Desktop/logic/clk.v
+Z39 FC:/Users/REZA/Desktop/logic/clk.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/logic/clk.v|
+R12
+n@clk
+!i10b 1
+!s85 0
+Z41 !s108 1562123148.632000
+Z42 !s107 C:/Users/REZA/Desktop/logic/clk.v|
+!s101 -O0
+vControl
+Z43 !s100 E45e`AAGVD^[edH4=_VoG1
+Z44 IF0G]hz[_i:G6C<DA?MdYT3
+Z45 VmIdIGzWI9fkYHFBS@IBon1
+R4
+Z46 w1561874038
+Z47 8C:/Users/REZA/Desktop/mamad/control.v
+Z48 FC:/Users/REZA/Desktop/mamad/control.v
+L0 1
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/control.v|
+R12
+Z50 n@control
+Z51 !s108 1562123147.507000
+Z52 !s107 C:/Users/REZA/Desktop/mamad/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z53 IEc=>:Q@om9RWo]Rn=ja5a2
+Z54 VTHLiTU:PPF:68CN[kb7bh3
+R4
+Z55 w1561535230
+R47
+R48
+L0 1
+R8
+r1
+31
+R49
+R12
+Z56 !s100 12a6>TLKfD[M4czaE;OCG0
+Z57 !s108 1561535264.745000
+R52
+!i10b 1
+!s85 0
+!s101 -O0
+vDMemBank
+Z58 !s100 DYeVeRF5ECIZ`G<]<<Ti]0
+Z59 If6>eRa831NO02HUN@lQZQ2
+Z60 VD2VT`?Wk8@TZUWH6T0CS[3
+R4
+Z61 w1562047002
+Z62 8C:/Users/REZA/Desktop/معماری/single cycle/Modules/Data-Memory.v
+Z63 FC:/Users/REZA/Desktop/معماری/single cycle/Modules/Data-Memory.v
+L0 2
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/معماری/single cycle/Modules/Data-Memory.v|
+R12
+Z65 n@d@mem@bank
+Z66 !s108 1562123144.367000
+Z67 !s107 C:/Users/REZA/Desktop/معماری/single cycle/Modules/Data-Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIMemBank
+Z68 !s100 ibUAf7Kmc[Tbzi43KMY1G0
+Z69 Izge@SCH@in=;PMLbcU;K<2
+Z70 V?FBX`XYCCALHJJ=<Ef_zc3
+R4
+Z71 w1562046941
+Z72 8C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v
+Z73 FC:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v
+L0 2
+R8
+r1
+31
+Z74 !s108 1562123144.664000
+Z75 !s107 C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v|
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/معماری/single cycle/Modules/Inst-Memory.v|
+R12
+Z77 n@i@mem@bank
+!i10b 1
+!s85 0
+!s101 -O0
+vjumpShifter
+Z78 !s100 RadUKm@P=_U=Nb`BNKbhC3
+Z79 IlR_k1jFcVg5]LkWZ:fZlJ2
+Z80 Vn:=I^ZaiBP`2FZ2m]0X7i0
+R4
+Z81 w1561542794
+Z82 8C:/Users/REZA/Desktop/mamad/shifter.v
+Z83 FC:/Users/REZA/Desktop/mamad/shifter.v
+L0 6
+R8
+r1
+31
+Z84 !s108 1562123146.445000
+Z85 !s107 C:/Users/REZA/Desktop/mamad/shifter.v|
+Z86 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/shifter.v|
+R12
+Z87 njump@shifter
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+Z88 !s100 06hgZI]Q=<G8[Ck2ac1N_2
+Z89 I3>F?jYBj_YHPCg@o0;4Ra2
+Z90 V]Q0QhAB0P@c?K8zn_VCFe3
+R4
+Z91 w1561545039
+Z92 8C:/Users/REZA/Desktop/mamad/mux2X1.v
+Z93 FC:/Users/REZA/Desktop/mamad/mux2X1.v
+L0 5
+R8
+r1
+31
+Z94 !s108 1562123146.976000
+Z95 !s107 C:/Users/REZA/Desktop/mamad/mux2X1.v|
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/mux2X1.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2X1
+Z97 !s100 Mg4f1VdQf3cEO:>GG8EV22
+Z98 I_:45BIE<]Lam?o^CL^oUQ0
+Z99 VnOmailaeGk=7RWkVcFKMF0
+R4
+R91
+R92
+R93
+L0 1
+R8
+r1
+31
+R94
+R95
+R96
+R12
+Z100 nmux2@x1
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z101 !s100 c?00G5WX:::_HN1U002K02
+Z102 I[BT=`7DKeNS]97oIYc1lS2
+Z103 VDUnGf2E]:1W]90:BGIoYN3
+R4
+Z104 w1562042624
+Z105 8C:/Users/REZA/Desktop/mamad/PC.v
+Z106 FC:/Users/REZA/Desktop/mamad/PC.v
+L0 1
+R8
+r1
+31
+Z107 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/PC.v|
+R12
+n@p@c
+Z108 !s108 1562123148.335000
+Z109 !s107 C:/Users/REZA/Desktop/mamad/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_adder
+Z110 !s100 Wo_]7YHcKnQaN_C_4i<TJ2
+Z111 IlXUT<Hd19?mbCjeGAjWnU1
+Z112 VETQ>_[S7_ZRMM:1<<c=4f1
+R4
+Z113 w1561875884
+Z114 8C:/Users/REZA/Desktop/mamad/PC_adder.v
+Z115 FC:/Users/REZA/Desktop/mamad/PC_adder.v
+L0 1
+R8
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/PC_adder.v|
+R12
+Z117 n@p@c_adder
+Z118 !s108 1562123145.867000
+Z119 !s107 C:/Users/REZA/Desktop/mamad/PC_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+Z120 !s100 VE?]Hb1b`7[`Z1zo8H4_X3
+Z121 I_K8H3<mdSdgh;WcD`<1LM2
+Z122 V=>;WXc3]LimWBk1HGVG0]2
+R4
+Z123 w1561874715
+Z124 8C:/Users/REZA/Desktop/معماری/single cycle/Modules/regfile.v
+Z125 FC:/Users/REZA/Desktop/معماری/single cycle/Modules/regfile.v
+L0 1
+R8
+r1
+31
+Z126 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/معماری/single cycle/Modules/regfile.v|
+R12
+Z127 n@reg@file
+Z128 !s108 1562123145.117000
+Z129 !s107 C:/Users/REZA/Desktop/معماری/single cycle/Modules/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshifter
+Z130 !s100 >>cbj5Z8>e1G<cGVhT@L@1
+Z131 IEZlnd]h<4[Oi_4k_jDSRH3
+Z132 VgoS77[g[zhPRo2J>:_ZGj2
+R4
+R81
+R82
+R83
+L0 1
+R8
+r1
+31
+R84
+R85
+R86
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsignExt
+Z133 !s100 j7RQI:@feZg:mRfH@]E`j2
+Z134 IV9XgIGjg`BSHCi@KkiRme2
+Z135 VJZhj8b93BKE?O`j28aHkh0
+R4
+Z136 w1561530362
+Z137 8C:/Users/REZA/Desktop/mamad/signExt.v
+Z138 FC:/Users/REZA/Desktop/mamad/signExt.v
+L0 1
+R8
+r1
+31
+Z139 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/signExt.v|
+R12
+Z140 nsign@ext
+Z141 !s108 1562123146.179000
+Z142 !s107 C:/Users/REZA/Desktop/mamad/signExt.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_cycle
+Z143 !s100 P9FFVneS]OTe_L84ZQ6361
+Z144 I_0icb^e`>4b3JLLh7b_CO2
+Z145 VNhnk;cXY[=fz11h8Q8RkK0
+R4
+Z146 w1562042731
+Z147 8C:/Users/REZA/Desktop/mamad/single_cycle.v
+Z148 FC:/Users/REZA/Desktop/mamad/single_cycle.v
+L0 1
+R8
+r1
+31
+Z149 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/single_cycle.v|
+R12
+Z150 !s108 1562123145.461000
+Z151 !s107 C:/Users/REZA/Desktop/mamad/single_cycle.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z152 I=IEm]>>?jl8FYe0lI9L620
+Z153 VhGfW:390DM[oDMzegDH9`2
+R4
+R71
+R72
+R73
+L0 40
+R8
+r1
+31
+R74
+R75
+R76
+R12
+Z154 !s100 ]Ida[DAWGXaB9c]U6_i8H3
+!i10b 1
+!s85 0
+!s101 -O0
+vtester
+!i10b 1
+Z155 !s100 H__78Je7RgOAU57kac>UB2
+Z156 IAB;3jAc]KgWWRCm>3lW231
+Z157 VQO4Fg]RKGd=TXo4>nADBB1
+R4
+Z158 w1561872373
+Z159 8C:/Users/REZA/Desktop/mamad/test.v
+Z160 FC:/Users/REZA/Desktop/mamad/test.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1562123149.022000
+!s107 C:/Users/REZA/Desktop/mamad/test.v|
+Z161 !s90 -reportprogress|300|-work|work|C:/Users/REZA/Desktop/mamad/test.v|
+!s101 -O0
+R12

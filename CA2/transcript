@@ -1,0 +1,12 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Users/REZA/Desktop/CA2/CA2.mpf 
+# Loading project CA2
+vsim -voptargs=+acc work.tbmult
+# vsim -voptargs=+acc work.tbmult 
+# Loading work.tbmult
+# Loading work.multiply4bits
+# Loading work.FA
+add wave -position insertpoint sim:/tbmult/*
+run
+run
+run
